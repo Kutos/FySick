@@ -1,0 +1,23 @@
+body
+{
+    padding: 0em;
+    margin: 0em;
+}
+header
+{
+    padding: 0em;
+    margin: 0em;
+    display: block;
+    height: 100vh;
+    background-color: #080808;
+}
+div#tsparticles
+{
+    height: 100%;
+}
+div.hometitle
+{
+    color: whitesmoke;
+    padding-top: 50vh;
+    padding-left: 30vh;
+}

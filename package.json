@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquerry": "*",
+    "tsparticles": "^1.39.0"
+  }
+}
